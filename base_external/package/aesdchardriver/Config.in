@@ -1,5 +1,5 @@
 
-config BR2_PACKAGE_AESDCHAR_DRIVER
-	bool "aesdchar_driver"
+config BR2_PACKAGE_AESDCHARDRIVER
+	bool "aesdchardriver"
 	help
 	  asesdchar_driver for Assignment 8
